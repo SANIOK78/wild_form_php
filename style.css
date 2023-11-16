@@ -49,3 +49,16 @@ button{
     color: blue;
     cursor: pointer;
 }
+.msg_erreur{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    border: 1px solid red;
+}
+.btn{
+    margin-top: 20px;
+    color: blue;
+    padding: 6px 10px;
+    font-size: 18px;
+}
